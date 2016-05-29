@@ -3,3 +3,6 @@
 bin
 lib
 include
+venv
+.idea
+__pycache__
